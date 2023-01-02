@@ -1,0 +1,12 @@
+[submodule "battleship-common"]
+	path = common
+	url = https://github.com/criempie/battleship-common.git
+	
+[submodule "battleship-client"]
+	path = client
+	url = https://github.com/criempie/battleship-client.git
+
+[submodule "battleship-server"]
+	path = server
+	url = https://github.com/criempie/battleship-server.git
+
